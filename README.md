@@ -9,9 +9,9 @@ This is a simple yet functional To-Do List web application built with HTML, CSS,
 
 🚀Persist tasks between sessions using localStorage
 
-## Features
+## 🔋 Features
 
-01.User-Friendly Interface:
+👉User-Friendly Interface:
 
 Clean, responsive design with a gradient background
 
@@ -19,7 +19,7 @@ Intuitive input field and add button
 
 Visual feedback for completed tasks (strikethrough text)
 
-02.Task Management:
+👉Task Management:
 
 Add new tasks by typing in the input field and clicking "Add"
 
@@ -27,14 +27,22 @@ Mark tasks as complete by clicking on them
 
 Delete tasks by clicking the × icon
 
-03.Data Persistence:
+👉Data Persistence:
 
 All tasks are saved to the browser's localStorage
 
 Tasks persist between page refreshes and browser sessions
 
-04.Visual Indicators:
+👉Visual Indicators:
 
 Custom checkbox icons (empty and checked states)
 
 Hover effects on delete buttons
+
+## 🤸 How to Use
+<ul>
+  <li>01.Type your task in the input field</li>
+  <li>02.Click the "Add" button or press Enter to add it to your list</li>
+  <li>03.Click on a task to mark it as completed</li>
+  <li>04.Click the × icon to remove a task from your list</li>
+</ul>
