@@ -12,37 +12,35 @@ This is a simple yet functional To-Do List web application built with HTML, CSS,
 ## 🔋 Features
 
 👉User-Friendly Interface:
-
-Clean, responsive design with a gradient background
-
-Intuitive input field and add button
-
-Visual feedback for completed tasks (strikethrough text)
+<ul>
+  <li>Clean, responsive design with a gradient background</li>
+  <li>Intuitive input field and add button</li>
+  <li>Visual feedback for completed tasks (strikethrough text)</li>
+</ul>
 
 👉Task Management:
-
-Add new tasks by typing in the input field and clicking "Add"
-
-Mark tasks as complete by clicking on them
-
-Delete tasks by clicking the × icon
+<ul>
+  <li>Add new tasks by typing in the input field and clicking "Add"</li>
+  <li>Mark tasks as complete by clicking on them</li>
+  <li>Delete tasks by clicking the × icon</li>
+</ul>
 
 👉Data Persistence:
-
-All tasks are saved to the browser's localStorage
-
-Tasks persist between page refreshes and browser sessions
+<ul>
+  <li>All tasks are saved to the browser's localStorage</li>
+  <li>Tasks persist between page refreshes and browser sessions</li>
+</ul>
 
 👉Visual Indicators:
-
-Custom checkbox icons (empty and checked states)
-
-Hover effects on delete buttons
+<ul>
+  <li>Custom checkbox icons (empty and checked states)</li>
+  <li>Hover effects on delete buttons</li>
+</ul>
 
 ## 🤸 How to Use
 <ul>
-  <li>01.Type your task in the input field</li>
-  <li>02.Click the "Add" button or press Enter to add it to your list</li>
-  <li>03.Click on a task to mark it as completed</li>
-  <li>04.Click the × icon to remove a task from your list</li>
+  <li>Type your task in the input field</li>
+  <li>Click the "Add" button or press Enter to add it to your list</li>
+  <li>Click on a task to mark it as completed</li>
+  <li>Click the × icon to remove a task from your list</li>
 </ul>
