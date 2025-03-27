@@ -2,8 +2,11 @@
 This is a simple yet functional To-Do List web application built with HTML, CSS, and JavaScript. The application allows users to:
 
 🚀Add new tasks to their to-do list
+
 🚀Mark tasks as completed with a checkmark
+
 🚀Delete tasks when they're no longer needed
+
 🚀Persist tasks between sessions using localStorage
 
 ## Features
